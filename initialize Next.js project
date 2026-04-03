@@ -1,0 +1,4 @@
+npx create-next-app@latest base-project
+cd base-project
+npm install
+npm run dev
